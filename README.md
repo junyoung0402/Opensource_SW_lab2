@@ -1,1 +1,1 @@
-# tmp_repo is open sw homework repo
+# this repo is Opensource homework repo!!

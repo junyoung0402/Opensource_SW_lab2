@@ -1,4 +1,4 @@
-<h1>My Project Plan (Level 1 Heading)<h1>
+<h1>My Project Plan (Level 1 Heading)</h1>
 
 **Note:** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
 
